@@ -1,7 +1,6 @@
 # 💫 About Me:
 - 👋Hi!! I am Ankit, 3rd year student at Nit, Agartala.
 - 👦I write codes.
-- 🚀 Exploring the intersection of technology and creativity.
 - ⚒️ I'm learning full stack development, Cp and algorithms.
 - 🚀 Exploring the intersection of technology and creativity.
 - 😄 Pronouns: HE/HIM
