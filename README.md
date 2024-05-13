@@ -24,7 +24,6 @@
 [![kalki's GitHub | Stats](https://stats.quine.sh/kalki/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kalki)
 [![kalki's GitHub | Dependencies](https://stats.quine.sh/kalki/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kalki)
 [![kalki's GitHub | Topics Over Time](https://stats.quine.sh/kalki/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kalki)
-
 [![kalki's GitHub | Languages Over Time](https://stats.quine.sh/kalki/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kalki)
 
 ## 🏆 GitHub Trophies
