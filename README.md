@@ -1,6 +1,5 @@
 # 💫 About Me:
 - 👋Hi!! I am Ankit, 3rd year student at Nit, Agartala.
-- 👨🏻‍💻Currently working as Software Engineer Intern @Codehop Interfusion.
 - 👦I write codes.
 - ⚒️ I'm learning full stack development, Cp and algorithms.
 - 🚀 Exploring the intersection of technology and creativity.
