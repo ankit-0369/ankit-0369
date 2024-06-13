@@ -1,7 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I'm Ankit, a 3rd-year NIT Agartala student passionate about coding.
-- ⚙️ Full Stack Developer and competitive programmer.
-- 🚀 Exploring tech creativity and contributing to open source.
+- ⚙️ Exploring Full Stack Dev, CP and Instrumentation Engineering.
 - 💡 Always learning and ready for new challenges.
 - 🌱 Currently diving deeper into advanced algorithms and system design.
 - 💬 Let's connect and collaborate on exciting tech projects!
