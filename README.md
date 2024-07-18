@@ -39,16 +39,18 @@
 [![kalki's GitHub | Stats](https://stats.quine.sh/kalki/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kalki)
 [![kalki's GitHub | Dependencies](https://stats.quine.sh/kalki/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kalki)
 
+<!--
 [![kalki's GitHub | Topics Over Time](https://stats.quine.sh/kalki/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kalki)
+-->
 <!-- [![kalki's GitHub | Languages Over Time](https://stats.quine.sh/kalki/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kalki) 
     [![kalki's Stack Overflow | Stats](https://stats.quine.sh/kalki/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kalki)
--->
+
 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ankit-0369&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+-->
 [![](https://visitcount.itsvg.in/api?id=ankit-0369&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
