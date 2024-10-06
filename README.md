@@ -9,20 +9,7 @@
 - 💡 Always learning and ready for new challenges.
 - 🌱 Currently diving deeper into advanced algorithms and system design.
 - 💬 Let's connect and collaborate on exciting tech projects!
-
-  ## Contact 
-<div> 
-  <a href="https://www.linkedin.com/in/ankit0369/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/k_ankit1001" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/_k.ankit__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: nvsankit2020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </br>
-</br>
- 
-![Snake animation](https://github.com/ankit-0369/ankit-0369/blob/output/github-contribution-grid-snake.svg) -->
- 
-</div>
-  
+ -->
 
 # Profiles: 
   <div>
@@ -32,6 +19,24 @@
      <a href="https://www.geeksforgeeks.org/user/kalki0/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" target="_blank"></a>
     
   </div>
+
+# Badges:
+
+  [![An image of @ankit0369's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankit0369)](https://holopin.io/@ankit0369)
+
+
+ ## Contact 
+ ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/k_ankit1001)
+  <a href="https://www.linkedin.com/in/ankit0369/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/_k.ankit__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: nvsankit2020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+</br>
+    
+ <!--
+![Snake animation](https://github.com/ankit-0369/ankit-0369/blob/output/github-contribution-grid-snake.svg)
+ -->
+
 
 <!-- 
 # 💻 Tech Stack:
